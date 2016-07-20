@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_down.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\spinner_down.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_list_item.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\nearby_list_item.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sort.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\sort.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\businesse_information_detail.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\businesse_information_detail.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bus_info_windows.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\bus_info_windows.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\businesse_information.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\businesse_information.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\mine.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_city.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\choose_city.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_splitline.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\top_splitline.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_city_list_item.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\choose_city_list_item.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sort_alllist_item.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\sort_alllist_item.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_list_item.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\more_list_item.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nearby_spinner_text.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\nearby_spinner_text.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\more.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_buttons.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\home_buttons.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_mer.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\choose_mer.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_city_headview.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\choose_city_headview.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\two_dimensional_code.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\two_dimensional_code.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sort_switch_item.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\sort_switch_item.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabshow.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\tabshow.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nearby.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\layout\\nearby.xml"
+    }
+]

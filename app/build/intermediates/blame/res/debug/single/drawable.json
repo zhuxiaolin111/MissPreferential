@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nearby_map_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\nearby_map_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dimensional_but_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\dimensional_but_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_mine_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\item_mine_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\home_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_sort_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\item_sort_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_money_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\mine_money_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_message_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\mine_message_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_package_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\mine_package_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_but_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\location_but_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nearby_search_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\nearby_search_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_near_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\item_near_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_more_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\item_more_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_buttons_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\home_buttons_bg.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_home_bg.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\drawable\\item_home_bg.xml"
+    }
+]

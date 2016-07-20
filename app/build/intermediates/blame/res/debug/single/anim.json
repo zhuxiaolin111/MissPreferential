@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\anim\\in.xml"
+    },
+    {
+        "merged": "D:\\MissPreferential\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out.xml",
+        "source": "D:\\MissPreferential\\app\\src\\main\\res\\anim\\out.xml"
+    }
+]

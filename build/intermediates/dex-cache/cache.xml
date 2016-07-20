@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\MissPreferential\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="faf157cb9d37c9317a2eb67d0e518acf68508cbc">
+        <dex dex="D:\MissPreferential\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9560ba0ec013cdd8d9c305daccf55ad4953aba10\classes.dex" />
+    </item>
+    <item
+        jar="D:\MissPreferential\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6aaf90f3f3c43b2ae53a35aa7a1b45afa02236fb">
+        <dex dex="D:\MissPreferential\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1e91b9b70fb0fe0e3b16719ea792a8b95ff00d48\classes.dex" />
+    </item>
+    <item
+        jar="D:\MissPreferential\app\libs\library.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a93475893db9a145ae408455a98823e7d2ffc5dd">
+        <dex dex="D:\MissPreferential\app\build\intermediates\transforms\dex\debug\folders\1000\2\library_b72bb5b64445005ec30071ff010435985db297f5\classes.dex" />
+    </item>
+    <item
+        jar="D:\MissPreferential\app\libs\support.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23670db5f1d039dca7bf2fe7feca8791752f9ee5">
+        <dex dex="D:\MissPreferential\app\build\intermediates\transforms\dex\debug\folders\1000\2\support_705d31ec022e5920ab68cf7e3c03e0655787b6c6\classes.dex" />
+    </item>
+
+</items>
